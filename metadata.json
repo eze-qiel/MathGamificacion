@@ -1,0 +1,7 @@
+{
+  "name": "MathMaster 7 - Diagnóstico Gamificado",
+  "description": "Aplicación interactiva para el diagnóstico de competencias matemáticas en estudiantes de grado séptimo, incluyendo operaciones con enteros, fraccionarios y conceptos teóricos, con monitor de ruido ambiental.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
